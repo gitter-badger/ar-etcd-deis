@@ -1,5 +1,5 @@
 {
-  "name": "ar-etcd",
+  "name": "ar-etcd-deis",
   "version": "0.0.1",
   "description": "Tool used to parse the host/port of an application deployed in Deis from etcd",
   "main": "index.js",
